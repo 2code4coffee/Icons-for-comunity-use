@@ -1,6 +1,6 @@
 # Icons for comunity use
 Cats dressed as octopus icons made in Microsoft Designer<br> For everyone's use and contribution <br>
-This is in 
+My favs is in 
 <a href="https://github.com/2code4coffee/Icons-for-comunity-use/discussions/1" target="_blank">
     <img src="https://img.shields.io/badge/Discussions-8A2BE2?style=plastic&logo=chat&logoColor=ffffff&logoSize=auto" height="20" /></a> now
     
